@@ -1,1 +1,1 @@
-# conv-seq-learning
+# multimodal-dance-generation
